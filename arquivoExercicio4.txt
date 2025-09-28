@@ -1,2 +1,3 @@
 Arquivo Exercicio 4
 Primeira alteração (Adicionando nova linha)
+Segunda alteração (adicionando segunda nova linha)
